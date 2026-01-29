@@ -12,11 +12,8 @@ Este proyecto es una aplicación web para **reconocimiento facial en tiempo real
 
 Aquí puedes ver la aplicación en acción:
 
-(Te recomiendo encarecidamente grabar un GIF corto del proyecto funcionando y colocarlo aquí. Esto aumenta el impacto del README enormemente.)
+<img width="632" height="335" alt="image" src="https://github.com/user-attachments/assets/342cbafd-37bc-4363-a108-90a84f523eb3" />
 
-[Insertar GIF de demostración aquí]
-
-[Ver Demo en Vivo] (Si lo tienes desplegado en GitHub Pages)
 
 ---
 
