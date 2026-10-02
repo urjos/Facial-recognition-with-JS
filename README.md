@@ -1,7 +1,5 @@
 # 👨‍💻 Reconocimiento Facial con JavaScript y face-api.js
 
-[Estado del Build] [Licencia: MIT]
-
 Este proyecto es una aplicación web para **reconocimiento facial en tiempo real** que utiliza la cámara de tu dispositivo. Es capaz de detectar rostros, identificar puntos de referencia faciales (ojos, nariz, boca) y reconocer a personas previamente registradas.
 
 **Todo el procesamiento se realiza directamente en el navegador** sin necesidad de un backend, garantizando velocidad y privacidad.
